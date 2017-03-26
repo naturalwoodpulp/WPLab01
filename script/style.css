@@ -1,0 +1,75 @@
+	body {
+		background:url(../img/bg.jpg);
+	}
+
+	h1 {
+		text-align:center;
+		font-family:arial;
+		letter-spacing:-2px;
+		font-size:40px;
+		padding:30px 0px;
+		color:#D45980;
+	}
+
+	.mainBox {
+		height:280px;
+		width:600px;
+		margin:auto;
+		text-align: center;
+		margin-bottom:50px;
+	}
+
+	.imgBox {
+		width:150px;
+		height:150px;
+		float:left;
+		margin-left:-158px;
+		margin-top:-3px;
+	}
+
+	.imgBack {
+		border:2px solid #D8787B;
+		width:150px;
+		height:150px;
+		float:left;
+		margin-left:245px;
+	}
+
+	.descBox {
+		float:left;
+		width:400px;
+		margin-top:10px;
+		margin-left: 100px;
+	}
+
+	.foodImage {
+		width:150px;
+		height:150px;
+	}
+
+	.name {
+		font-size:40px;
+		font-family:French Script MT;
+		font-weight:bold;
+		line-height:44px;
+		text-transform:lowercase;
+		color:#A578D8;
+	}
+
+	.price {
+		font-size:11px;
+		font-family:calibri;
+		font-weight:bold;
+		line-height:12px;
+		text-transform:uppercase;
+	}
+
+	.description {
+		font-size:12px;
+		font-family:arial;
+		font-weight:bold;
+		text-transform:uppercase;
+		letter-spacing:-.5px;
+		line-height:14px;
+		color:#8A604C;
+	}
